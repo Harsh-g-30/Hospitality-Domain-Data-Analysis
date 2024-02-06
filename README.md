@@ -24,3 +24,6 @@ Implement DAX measures to derive meaningful insights from the dataset. Explain t
 
 6. Dashboard Creation
 Develop a comprehensive dashboard that aligns with the specified requirements. Include visualizations, charts, and any interactive elements that provide a clear representation of the analyzed data.
+
+Final look of the dashboard - 
+![Hospitality Domain ss](https://github.com/Harsh-g-30/Harsh-g-30/assets/80643973/41c03efd-6c30-4a76-a1aa-e494e9727f84)
